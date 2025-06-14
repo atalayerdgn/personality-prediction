@@ -2,14 +2,6 @@
 
 This project implements a machine learning model to predict personality types using XGBoost algorithm. The model analyzes various features to predict whether a person is extroverted (E) or introverted (I).
 
-## Project Structure
-
-- `personality_prediction_xgboost.py`: Main implementation file containing the XGBoost model for personality prediction
-- `xgboost_feature_importance.py`: Implementation of feature importance analysis using XGBoost
-- `random_forest_feature_importance.py`: Alternative implementation using Random Forest for feature importance
-- `max_frequency_difference.py`: Implementation of a string frequency analysis algorithm
-- `lexicographical_order.py`: Implementation of a lexicographical ordering algorithm
-
 ## Features
 
 - Personality type prediction (E/I)
